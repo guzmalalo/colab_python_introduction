@@ -8,9 +8,9 @@ Aucune installation locale n'est nécessaire. Ouvrez un notebook avec le lien co
 
 | Notebook | Google Colab |
 |----------|--------------|
-| [Introduction à Python](introduction.ipynb) | [Ouvrir dans Colab](https://colab.research.google.com/github/ECE-Lyon/colab_python_introduction/blob/main/introduction.ipynb) |
-| [NumPy](numpy.ipynb) | [Ouvrir dans Colab](https://colab.research.google.com/github/ECE-Lyon/colab_python_introduction/blob/main/numpy.ipynb) |
-| [Matplotlib](matplotlib.ipynb) | [Ouvrir dans Colab](https://colab.research.google.com/github/ECE-Lyon/colab_python_introduction/blob/main/matplotlib.ipynb) |
+| [Introduction à Python](introduction.ipynb) | [Ouvrir dans Colab](https://colab.research.google.com/github/guzmalalo/colab_python_introduction/blob/main/introduction.ipynb) |
+| [NumPy](numpy.ipynb) | [Ouvrir dans Colab](https://colab.research.google.com/github/guzmalalo/colab_python_introduction/blob/main/numpy.ipynb) |
+| [Matplotlib](matplotlib.ipynb) | [Ouvrir dans Colab](https://colab.research.google.com/github/guzmalalo/colab_python_introduction/blob/main/matplotlib.ipynb) |
 
 
 ## Exécuter les cellules
